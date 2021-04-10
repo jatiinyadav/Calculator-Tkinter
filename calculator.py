@@ -4,7 +4,7 @@ from math import sqrt
 root = Tk()
 root.title("Calculator")
 root.configure(background='#282828')
-p1 = PhotoImage(file = 'icon.png')
+p1 = PhotoImage(file = 'calculator-icon.png')
 root.iconphoto(True, p1)
 
 input_text = Entry(root, width = 45, borderwidth = 5)
