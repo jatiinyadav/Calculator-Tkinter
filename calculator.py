@@ -1,9 +1,11 @@
-from tkinter import Button, mainloop, Tk, Pack, Label, Entry, Grid, Button, END
+from tkinter import Button, mainloop, Tk, Pack, Label, Entry, Grid, Button, PhotoImage, END
 from math import sqrt
 
 root = Tk()
 root.title("Calculator")
 root.configure(background='#282828')
+p1 = PhotoImage(file = 'icon.png')
+root.iconphoto(True, p1)
 
 input_text = Entry(root, width = 45, borderwidth = 5)
 input_text.grid(row = 0, column = 0, columnspan = 4, padx = 10, pady = 10)
