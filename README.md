@@ -1,3 +1,4 @@
+![Calculator-Tkinter-bg](https://user-images.githubusercontent.com/73248007/124509457-a16b0600-ddef-11eb-8327-8cc2b1a9e412.png)
 # Calculator-Tkinter
 
 This is a repository of all the code I have coded in **Python**. This repo was created purely for transparency purposes and self learning.
